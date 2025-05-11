@@ -17,6 +17,11 @@ A fictional short-let property agency operating in Essex wants to manage:
 
 I built this SQL project to model the business, explore relational data, and provide insights that agents could use to promote and manage listings.
 
+--- 
+
+### 💬 Notes
+This project demonstrates data modeling, real-world logic, and business analysis with SQL. It showcases how structured data can drive insight and decision-making in a rental/lettings context.
+
 ---
 
 ## 🗃️ Tables & Schema
@@ -70,13 +75,14 @@ I built this SQL project to model the business, explore relational data, and pro
 | 18         | 75894     | Colchester | £60.00                |
 | 8          | 32645     | Chelmsford | £43.33                |
 
+>⚠️ Note: These values are not stored in the database; they are calculated dynamically at query time.
 ---
 
 ## 🧭 Future Enhancements
 
 - Add triggers to validate booking overlaps
 - Expand to cover full-year booking data
-- Create ERD (Entity Relationship Diagram)
+
 
 ---
 
