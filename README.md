@@ -10,7 +10,7 @@
 
 ## 📘 Project Story
 
-A fictional short-let property agency operating in Essex wants to manage:
+A short-let property agency operating in Essex wants to manage:
 - The **towns** they operate in
 - The **properties** they list
 - The **bookings** made in February
@@ -20,7 +20,7 @@ I built this SQL project to model the business, explore relational data, and pro
 --- 
 
 ### 💬 Notes
-This project demonstrates data modeling, real-world logic, and business analysis with SQL. It showcases how structured data can drive insight and decision-making in a rental/lettings context.
+This project demonstrates data modelling, real-world logic, and business analysis with SQL. It showcases how structured data can drive insight and decision-making in a rental/lettings context.
 
 ---
 
